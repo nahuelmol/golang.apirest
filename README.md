@@ -4,7 +4,7 @@ The project is actually in progress
 
 ## purpose
 To analize the performance of golang in web applications
-
+* To connect to a backend and implement a CORS mechanism to exchange information, data and resources in general
 ## Package
 * gorilla/mux: `go get github.com/gorilla/mux`
 * comileDaemon: `go get github.com/githubnemo/CompileDaemon`
