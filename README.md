@@ -1,4 +1,10 @@
 # GOLANG APIREST 
+<div>
+  <img src="https://img.shields.io/github/last-commit/nahuelmol/golang.apirest"/>
+  <img src="https://img.shields.io/github/languages/code-size/nahuelmol/golang.apirest"/>
+  <img src="https://img.shields.io/github/languages/top/nahuelmol/golang.apirest"/>
+</div>
+
 
 The project is actually in progress
 
